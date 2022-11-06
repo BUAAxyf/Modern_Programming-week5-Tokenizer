@@ -1,4 +1,5 @@
-# week5-Tokenizer[第5周作业.pdf](https://github.com/BUAAxyf/week5-Tokenizer/files/9943480/5.pdf)
+# week5-Tokenizer
+[第5周作业.pdf](https://github.com/BUAAxyf/week5-Tokenizer/files/9943480/5.pdf)
 实现文本处理的Tokenizer类
 深度学习处理自然语言时，会常常用到Tokenizer（https://huggingface.co/transformers/tokenizer_summary.html）。简单来说，就是按照预先定义好的词典，把文本编码成整数序
 列的过程。深度学习模型进行文本挖掘任务时会经常需要处理这种编码过的序列。在构建过程中，有时候我们希望句子的长度能够整齐，所以会规定一个特殊的号码[PAD]=0，代表填
